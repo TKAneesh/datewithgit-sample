@@ -1,0 +1,55 @@
+[33mcommit 98aef4811f7cc7b3b8560defbf5470d0a099fa84[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 2c4b48c 23ab09a
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Fri Aug 12 21:07:59 2022 +0530
+
+    WIP on feature: 2c4b48c Hello added in master
+
+[33mcommit 23ab09af93aebe0c5f718d524a18249812adb3bd[m
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Fri Aug 12 21:07:59 2022 +0530
+
+    index on feature: 2c4b48c Hello added in master
+
+[33mcommit 2c4b48cc7082800260573a0771477fdf2ba371d9[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: a703647 82dd940
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Fri Aug 12 20:59:15 2022 +0530
+
+    Hello added in master
+
+[33mcommit a703647b02f9aab3e851d3a8c31fa70bcd690ea9[m
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Fri Aug 12 20:57:39 2022 +0530
+
+    Hello added in master
+
+[33mcommit 82dd94054909b741838d31cfe21a689e933c45f5[m[33m ([m[1;32mfeature2[m[33m)[m
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Fri Aug 12 20:54:42 2022 +0530
+
+    Feature branch added
+
+[33mcommit 6b38f7b16f18e50cff1e282fd57ed29db006ba4a[m
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Fri Aug 12 20:44:54 2022 +0530
+
+    Hey file edited
+
+[33mcommit f62add503f72c473746da1457e40b636e9732968[m
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Fri Aug 12 20:38:52 2022 +0530
+
+    Second file added
+
+[33mcommit f510538600b4d9ff88f7a5a513ee0b18c840fe04[m
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Thu Aug 11 21:34:17 2022 +0530
+
+    added some messages
+
+[33mcommit c9091a917e2ab811dcac232be601a24555d91704[m
+Author: Aneesh TK <aneeshtkbsnl@gmail.com>
+Date:   Thu Aug 4 22:02:17 2022 +0530
+
+    Initial Commit
